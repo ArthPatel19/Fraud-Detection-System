@@ -1,4 +1,4 @@
-# Dataset Instructions
+# Dataset Instructions for users
 
 The dataset used in this project is not included in the repository because it is large.
 
